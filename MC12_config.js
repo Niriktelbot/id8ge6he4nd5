@@ -13,7 +13,7 @@ config.bot_id = 5521629475; // ID бота (первая часть API ключ
 config.bot_username='testik_test_robot'; // Юзернейм бота
 config.bot_chat='chat_participant'; // Юзернейм чата бота
 
-config.otziv = 'PR_Otziv;
+config.otziv = 'PR_Otziv';
 
 config.pay = 'payments_bota'; // Выплаты + задания
 
